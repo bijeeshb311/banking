@@ -19,5 +19,3 @@ async function testDatabase() {
 }
 
 testDatabase();
-ReadableStreamBYOBReader
-tdxf
